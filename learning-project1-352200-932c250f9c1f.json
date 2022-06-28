@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learning-project1-352200",
+  "private_key_id": "932c250f9c1f28cae6d9d7cb0637d2f0cbfd8942",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChLqWpRgKqTOzp\nsgrRkQH5kHIuPf7D3F2tnJB0IlNCgs+8/BICYFujD3p1xwY84vJA6XdaxfH2jGpo\nLv4/IbueYROESckfSiTtFSFUMQkw8RtUM+OhWJAm3/i+wEZKF+pCNfNRJol10ydY\nE/eJ6b/+cN7aft4p6neSyiYUFqrgumk3scy6DtRIZ8AvZqVBnHJg+XTFCZJtnWRo\njQ6O7ODwcfOjv8Z5ao4VqkJE+O5mBhAi6h5sEXuqi4AsvmNX4iEjtmJeWBufQrFz\naNSLfdMi3OYSLMLmm9S4jvDpdBp4BUpCg3ntOnx8e+fuuWLOBYCQyxlWB/e8jZXE\nSUjpLuSnAgMBAAECggEAA1GckVZHaqCO3NRsPS0AC/sr/rKdPATnAOT+9Zd+M2L2\nuBEsE3kFl7rKJUtBO6BIp4qnG1jOWTPUq+tbyoq0INgmSwNPo/0B++xMUNBVF9Sa\nhXPmWfxr/bfImNTkHZ5yKBf/JbhT/NMXWkyjhZ4EhuD4FbzLAkcUyhJlyAlAl3rS\nJncG95Wmx5GZ/4nVJLKZRA2VvEfiDN6ojt4Lz48lBEltAGLLozhKRwx4A9PkdZuj\n3Lcf/NtjgCgwEq5CDryMVuIINJt3dk0zvz+FnHNXhvewoqL+Iaa8kG6qAuoevwig\naTdnunDIiK3R+NbIaclLjL5M08CpAxbZK0MYMyX44QKBgQDhD/rjLZx0yxpsTSQK\nkQ3Gd9bs4Dhk5+qD99HiyS0x28gz1ivQJKDazjPtyrccoANOCSUkyfnB03jdpK/I\nBmb6Ol/0c4wa6B9zJekN92Su7HsCKFqZOIAcY79stgSfEZL0L2m0Jv4HnUgDxpKv\nmoFmL52iovjGG+FqQJGfSFKG6QKBgQC3VrOo0qFn/BB8X7e3NUt3iRazVfTjjiDa\nuwl5TZ3cSQwna54l3TrqvuRgdE/3Uoo0BZTRawhRlfrnlW/CwHthqreSOF5/+TF9\nTzWuFYQyPxhN0WRPf/rHLY0yRZ9oUZbPyi2z3Mu/H5UrlFwDzSDETFaFwgIYJUd3\nYKcEGdz1DwKBgE4ryb2cewpJ/Tx+srUE2t8DguA1pQDPWLJLolf9/jeiGfB/RCqA\nfmphUsIWNfG4Vk2FeaREjv5WoFWDvRZhuuTQ38E9XP1/gGTzVvZl5k+njbYbJBSx\n/jVeI//zXLmPVhaAXVuYa4VjiL7e+tYJeUZv5XW222ecCXhpQusrKJb5AoGAbEg9\n9iDpCZRbXEngJMnKV8BU8vh6mYeRKf672rQX30oZbpLmJfDi4lB6a+lmbWmHjLAb\nNBCmKiGNvgeJqZmrhYShxS+byLOyIhONXdMBb/fJ7/QS7c1lnQvvT9jFDITbsL/1\nfDyU7b3GiaWnLuuRRb7cf0WVnRMvgXdJTWfFE8sCgYEAtIDHcHKGUEihWZZOhFJq\nOZ/eq0O5lMtIuxeqdn9uxTYhDydYwtZFLkhzmJm2L7+1M2/Z8j1mx/uUDwkCayWd\n8xHtwyGDszkQIBTUdvvRHXxAfrsHyUJKIxiGYme4MSt1ycCg5IgNoX4X+Fw2mdb+\nNVuIQqWT6u0lBgC+EKgesSQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sercice-account-poig@learning-project1-352200.iam.gserviceaccount.com",
+  "client_id": "108367787120258097148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sercice-account-poig%40learning-project1-352200.iam.gserviceaccount.com"
+}
